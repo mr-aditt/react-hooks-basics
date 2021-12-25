@@ -23,7 +23,7 @@ function App() {
         [val]: state[val]+1
       })
     }
-    const {age_3, siblingsNum_3} = state
+    // const {age_3, siblingsNum_3} = state
   
   // Progression: 4
   const [count, setCount]= useState(0);
